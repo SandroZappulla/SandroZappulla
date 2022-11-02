@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SandroZappulla
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP, Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me *COOMING SOON*
+- ✌️ Hey, I’m @SandroZappulla
+- 👀 I’m interested in Automation, Web Development
+- 🌱 I’m currently learning Python, PHP, Javascript
+- 📫 contact: zappulla.sandro@web.de
 
 <!---
 SandroZappulla/SandroZappulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
