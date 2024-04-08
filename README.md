@@ -1,5 +1,5 @@
 - ✌️ Hey, I’m @SandroZappulla
-- 👀 I’m interested in Automation, Web Development
+- 👀 I’m interested in Automation, Security, Web Development
 - 🌱 I’m currently learning Python, PHP, Javascript
 - 📫 e-mail contact: zappulla.sandro@web.de
 
